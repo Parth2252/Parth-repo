@@ -1,4 +1,4 @@
 # parth-repo
 This is my first repository.
 
-Author - Parth Thakkar
+Author - Parth Thakkar(Patan)

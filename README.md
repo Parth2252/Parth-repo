@@ -1,2 +1,2 @@
-# Parth-repo
+# parth-repo
 This is my first repository.
